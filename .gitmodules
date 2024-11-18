@@ -1,0 +1,4 @@
+[submodule "vendor/Framer"]
+	path = vendor/Framer
+	url = https://github.com/TomasPrusenovsky/Framer.git
+	branch = imgui
